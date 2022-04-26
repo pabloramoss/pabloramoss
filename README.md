@@ -4,7 +4,9 @@
 
 - 💻 I’m currently working as freelance making projects like e-commerces, landing pages and side projects.
 
-- 🌱 I believe in  form good habits that lead to remarkable results. No matter your goals, with a correct planification and good habits is only a matter of time.
+- ❤️ I love writing TypeScript, and building fun experiments on type-level.
+
+- 🌱 I believe in form good habits that lead to remarkable results. No matter your goals, with a correct planification and good habits is only a matter of time.
 
 
 
