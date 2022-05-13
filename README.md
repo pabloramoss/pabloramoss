@@ -11,9 +11,6 @@
   <a href="https://pabloramos.vercel.app/twitter" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a style="display:none" href="https://pabloramos.vercel.app/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
 </p>
 
 - 💻 I’m currently working as freelance making projects like e-commerce applications, landing pages and side projects.
@@ -121,12 +118,9 @@ See [my website](https://pabloramos.vercel.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=NEXT.JS&color=23555f&style=plastic&logo=next.js&logo-color=white"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REDUX&color=23555f&style=plastic&logo=redux&logo-color=white"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=23555f&style=plastic&logo=wordpress"/>
-    <img style="display:none" src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=23555f&style=plastic&logo=mongodb"/>
-    <img style="display:none" src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=23555f&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=23555f&style=plastic&logo=bootstrap"/>
-    <img style="display:none" src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CHAKRA-UI&color=23555f&style=plastic&logo=chakra-ui&logo-color=white"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWINDCSS&color=23555f&style=plastic&logo=tailwindcss&logo-color=white"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=23555f&style=plastic&logo=postman&logo-color=white"/>
@@ -150,9 +144,6 @@ See [my website](https://pabloramos.vercel.app) for more information!
   </a>
   <a href="https://pabloramos.vercel.app/twitter" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a style="display: none" href="https://pabloramos.vercel.app/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
