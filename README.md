@@ -1,26 +1,158 @@
 
-<h1 align="center">Hello World 👋 It's Pablo!</h1>
-<h3 align="center">Frontend Developer from Santa Fe, Argentina</h3>
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGulH8ZJUZXlA/profile-displaybackgroundimage-shrink_350_1400/0/1646837765687?e=1657756800&v=beta&t=UvRw1P-GjCWB_p9ZMIaerWbFFMriaY8rus3qNzCHGnU" width="100%">
 
-- 💻 I’m currently working as freelance making projects like e-commerces, landing pages and side projects.
+<p align="center">
+  <a href="https://pabloramos.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://pabloramos.vercel.app/linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://pabloramos.vercel.app/twitter" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a style="display:none" href="https://pabloramos.vercel.app/resume" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level.
+- 💻 I’m currently working as freelance making projects like e-commerce applications, landing pages and side projects.
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level.
 
 - 🌱 I believe in form good habits that lead to remarkable results. No matter your goals, with a correct planification and good habits is only a matter of time.
+- 🕹 With a background in Math, Physics, and Statistics.
+
+See [my website](https://pabloramos.vercel.app) for more information!
+
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Simple API store</h3>
+        <br />
+        <a target="_blank" href="https://simpleapistore.vercel.app">
+            <img src="images/simpleapi.gif" width="100%" alt="Fake api store"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/pabloramoss/fake-api-shop" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://simpleapistore.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Typecript, Next.js, Chakra-UI,</strong> - API that can provide an array of 30 products or an object with a single product. Useful for e-commerce prototypes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Gecomm</h3>
+        <br />
+      <a target="_blank" href="https://ecommerce-pablo.vercel.app">
+            <img src="images/gecomm.gif" width="100%"  alt="Gecomm e-commerce"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/pabloramoss/Gecomm" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://ecommerce-pablo.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Next.js, Chakra-UI</strong> - Zero cost e-commerce app, since it has a database of products and sales made in Google Sheets.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Valobrain</h3>
+      <br />
+        <a target="_blank" href="https://valobrain.vercel.app">
+          <img src="images/valobrain.gif" width="100%" alt="Valobrain"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/pabloramoss/stratcall" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://valobrain.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Next.js, Chakra-UI</strong> - Gaming app for Valorant which consists in a video search engine from a specific YouTube channel.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">El torito bar</h3>
+        <br />
+        <a target="_blank" href="https://eltoritobar.vercel.app">
+          <img src="images/eltorito.gif" width="100%" alt="El torito bar"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/pabloramoss/El-toro-bar" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://eltoritobar.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Typescript, Next.js, Chakra-UI</strong> - App with mobile design for a restaurant with a digital menu where you can make orders.</p>
+    </td>
+  </tr>
+</table>
+
+
+<h1 align="center">Technologies</h1>
+
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=23555f&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=23555f&style=plastic&logo=sass"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=23555f&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=23555f&style=plastic&logo=typescript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=23555f&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NEXT.JS&color=23555f&style=plastic&logo=next.js&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REDUX&color=23555f&style=plastic&logo=redux&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=23555f&style=plastic&logo=wordpress"/>
+    <img style="display:none" src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=23555f&style=plastic&logo=mongodb"/>
+    <img style="display:none" src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=23555f&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=23555f&style=plastic&logo=bootstrap"/>
+    <img style="display:none" src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CHAKRA-UI&color=23555f&style=plastic&logo=chakra-ui&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TAILWINDCSS&color=23555f&style=plastic&logo=tailwindcss&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=23555f&style=plastic&logo=postman&logo-color=white"/>
+</p>
 
 
 
+---
 
 
-<h3 align="left">Stack tech:</h3> <p align="left"> 
+<h1 align="center">Connect</h1>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img style="filter: invert(1)" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" alt="next.js" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pabloramoss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pabloramoss/" height="30" width="40" /></a>
+
+<p align="center">
+  <a href="https://pabloramos.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://pabloramos.vercel.app/linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://pabloramos.vercel.app/twitter" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a style="display: none" href="https://pabloramos.vercel.app/resume" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
+
