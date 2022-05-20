@@ -127,10 +127,8 @@ See [my website](https://pabloramos.vercel.app) for more information!
 </p>
 
 <h1 align="center">GitHub Stats</h1>
-<div style="display: flex;">
-  <img alt="most used languages" style="width: 30%; height: 250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloramoss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-  <img style="width: 70%; height: 250px;" src="https://github-readme-stats.vercel.app/api?username=pabloramoss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-</div>
+|   <img alt="most used languages" style="height: 250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloramoss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> | <img style="height: 250px;" src="https://github-readme-stats.vercel.app/api?username=pabloramoss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"> |
+| ------------- | ------------- |
 
 
 ---
