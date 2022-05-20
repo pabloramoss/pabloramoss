@@ -126,7 +126,8 @@ See [my website](https://pabloramos.vercel.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=23555f&style=plastic&logo=postman&logo-color=white"/>
 </p>
 
-
+<h1 align="center">GitHub Stats</h1>
+<img alt="most used languages" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloramoss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"><img height="250px" src="https://github-readme-stats.vercel.app/api?username=pabloramoss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 ---
 
