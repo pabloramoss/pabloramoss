@@ -123,7 +123,11 @@ See [my website](https://pabloramos.vercel.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=23555f&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CHAKRA-UI&color=23555f&style=plastic&logo=chakra-ui&logo-color=white"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWINDCSS&color=23555f&style=plastic&logo=tailwindcss&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=STYLED-COMPONENTS&color=23555f&style=plastic&logo=styled-components&logo-color=white"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=23555f&style=plastic&logo=postman&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GRAPHQL&color=23555f&style=plastic&logo=graphql&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CYPRESS&color=23555f&style=plastic&logo=cypress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JEST&color=23555f&style=plastic&logo=jest&logo-color=white"/>
 </p>
 
 <h1 align="center">GitHub Stats</h1>
