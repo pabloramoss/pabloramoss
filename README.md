@@ -117,7 +117,6 @@ See [my website](https://pabloramos.vercel.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=23555f&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NEXT.JS&color=23555f&style=plastic&logo=next.js&logo-color=white"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REDUX&color=23555f&style=plastic&logo=redux&logo-color=white"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=23555f&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=23555f&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=23555f&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=23555f&style=plastic&logo=bootstrap"/>
