@@ -1,5 +1,5 @@
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGulH8ZJUZXlA/profile-displaybackgroundimage-shrink_350_1400/0/1646837765687?e=1657756800&v=beta&t=UvRw1P-GjCWB_p9ZMIaerWbFFMriaY8rus3qNzCHGnU" width="100%">
+<img src="https://media-exp2.licdn.com/dms/image/C4E16AQGulH8ZJUZXlA/profile-displaybackgroundimage-shrink_350_1400/0/1646837765687?e=1663200000&v=beta&t=e3t9deWtj1SHXhDCDekV1lZUUMdrAOTcH14HTwTn-3Y" width="100%">
 
 <p align="center">
   <a href="https://pabloramos.vercel.app" target="_blank">
