@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 💻 I’m currently working as freelance making projects like e-commerce applications, landing pages and side projects.
+- 💻 I’m currently working as frontend developer at Inceptia SRL.
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level.
 
@@ -124,7 +124,6 @@ See [my website](https://pabloramos.vercel.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWINDCSS&color=23555f&style=plastic&logo=tailwindcss&logo-color=white"/>
     <img src="https://img.shields.io/static/v1?label=|&message=STYLED-COMPONENTS&color=23555f&style=plastic&logo=styled-components&logo-color=white"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=23555f&style=plastic&logo=postman&logo-color=white"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GRAPHQL&color=23555f&style=plastic&logo=graphql&logo-color=white"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CYPRESS&color=23555f&style=plastic&logo=cypress&logo-color=white"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JEST&color=23555f&style=plastic&logo=jest&logo-color=white"/>
 </p>
