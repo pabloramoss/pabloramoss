@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 💻 I’m currently working as frontend developer at [Inceptia](https://www.inceptia.ai/).
+- 💻 I’m currently working as frontend developer at [Blazar](https://blazargroup.com/).
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level.
 
